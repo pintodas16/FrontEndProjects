@@ -1,4 +1,6 @@
-# quote app [live-url]()
+# quote app [live-url](https://p-quote-app.netlify.app/)
+
+#### It is the first project of freecode codecamp [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine)
 
 ## key - features :
 

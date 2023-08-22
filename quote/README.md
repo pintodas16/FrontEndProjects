@@ -1,8 +1,13 @@
-# React + Vite
+# quote app [live-url]()
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## key - features :
 
-Currently, two official plugins are available:
+    1. fetch random quote when app is initial lode
+    2. By clicking fetch-new-quote it will fetch new quote
+       at the same background color will change everytime .
+    3. user can share quote their twitter account.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technology:
+
+    1.React for UI
+    2.Tailwind css for styleing
